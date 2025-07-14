@@ -2,7 +2,7 @@
 "companyName": "DefaultCompany",
 "productName": "GeometryDashBreeze",
 "productVersion": "1.2",
-"dataUrl": "GeometryDashBreeze.data.unityweb",
+"dataUrl": "https://geometrydashbreeze.com/Build/GeometryDashBreeze.data.unityweb",
 "wasmCodeUrl": "GeometryDashBreeze.wasm.code.unityweb",
 "wasmFrameworkUrl": "GeometryDashBreeze.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
